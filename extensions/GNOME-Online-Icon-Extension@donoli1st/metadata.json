@@ -2,6 +2,10 @@
     "uuid": "GNOME-Online-Icon-Extension",
     "name": "Internet Watch",
     "description": "Show status of internet connection in the top bar.",
-    "version": "1.0.0",
+    "gettext-domain": "gnome-online-icon-extension",
+    "settings-schema": "org.gnome.shell.extensions.gnome-online-icon-extension",
+    "url": "https://github.com/donoli1st/gnome-online-icon-extension",
+    "version": 1,
+    "version-name": "1.0.0",
     "shell-version": ["49"]
 }
